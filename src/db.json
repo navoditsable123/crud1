@@ -1,0 +1,13 @@
+{
+  "student": [
+    {
+      "id": "e909",
+      "name": "Pratap ",
+      "email": "surajbonde40@gmail.com",
+      "role": "java developer",
+      "contact": "8877998877",
+      "gender": "male",
+      "lastname": "chopde"
+    }
+  ]
+}
